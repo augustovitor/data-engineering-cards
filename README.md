@@ -150,7 +150,7 @@ O projeto foi desenhado para custar centavos na AWS:
 **Vitor Augusto Mello da Silva**
 Engenharia de Dados · Bacharelado em Ciência e Tecnologia (UFABC)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-PERFIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-augusto-ab3298255/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/augustovitor)
 
 </div>
